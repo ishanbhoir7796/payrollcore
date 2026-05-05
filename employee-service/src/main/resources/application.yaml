@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: employee-service
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@payrollcore.7dtrjt4.mongodb.net/?appName=payrollcore
+      database: employee-db
+
+jwt:
+  secret: 404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+
+auth-service:
+  url: http://localhost:8081
