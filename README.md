@@ -212,3 +212,7 @@ Sample Response:
 Ishan Bhoir
 GitHub: https://github.com/ishanbhoir7796
 LinkedIn: https://linkedin.com/in/ishanbhoir
+
+## License
+
+MIT
